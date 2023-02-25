@@ -10,9 +10,6 @@ I am thrilled to have the opportunity to share a little bit about myself
 I believe that the internet is the future of communication and that web development is the key to unlocking its potential. That's why I'm always looking for new ways to improve my skills and stay up to date with the latest trends and technologies.
   </tr>
 </table>
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
+<img src="https://raw.githubusercontent.com/trungdoublelift/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/trungdoublelift/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/trungdoublelift/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
